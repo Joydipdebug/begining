@@ -1,0 +1,46 @@
+body{
+	background-image: url(images/bg1.png);
+	background-size:50%;
+	
+}
+.reg-form{
+	width:600px;
+	background: rgba(27, 38, 49, .7);
+	margin:100px auto;
+	padding:20px;
+	border-radius:5px;
+	
+}
+.reg-form input{
+	display:block;
+	width:80%;
+	margin-left:10%;
+	font-size:15px;
+	padding:3px;
+	border:1.5px solid navy;
+	background:transparent;
+	color:#D5DBDB;
+	border-radius:5px;
+}
+.reg-form label{
+	color:#D5DBDB;
+	cursor:pointer;
+	padding: 5px 0;
+	display:block;
+	font-size:15px;
+	font-family:tahoma;
+}
+.reg-form input[type=submit]{
+	width: 250px;
+	margin-top: 10px;
+	cursor: pointer;
+	
+	
+}
+ .reg-form p {
+	 color:#F4F6F7;
+	 font-family:tahoma;
+ }
+ .reg-form p a{
+	 color:#E6B0AA;
+ } 
